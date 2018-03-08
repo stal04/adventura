@@ -5,7 +5,7 @@ package com.github.filipvencovsky.adventura.main;
 
 
 import com.github.filipvencovsky.adventura.logika.*;
-import com.github.filipvencovsky.adventura.uiText.TextoveRozhrani;
+import com.github.filipvencovsky.adventura.ui.TextoveRozhrani;
 
 /*******************************************************************************
  * Třída {@code Start} je hlavní třídou projektu,
